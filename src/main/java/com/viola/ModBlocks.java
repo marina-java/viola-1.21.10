@@ -69,9 +69,35 @@ public class ModBlocks {
             BlockBehaviour.Properties.of().mapColor(MapColor.STONE).sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
             true);
+    public static final Block MOSSY_ANDESITE_BRICKS_STAIRS = register("mossy_andesite_bricks_stairs",
+            (properties) -> new StairBlock(ANDESITE_BRICKS.defaultBlockState(), properties),
+            BlockBehaviour.Properties.ofFullCopy(ANDESITE_BRICKS).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block MOSSY_ANDESITE_BRICKS_SLAB = register("mossy_andesite_bricks_slab", SlabBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(ANDESITE_BRICKS).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block MOSSY_ANDESITE_BRICKS_WALL = register("mossy_andesite_bricks_wall", WallBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(ANDESITE_BRICKS).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
 
     public static final Block CRACKED_ANDESITE_BRICKS = register("cracked_andesite_bricks", Block::new,
             BlockBehaviour.Properties.of().mapColor(MapColor.STONE).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_ANDESITE_BRICKS_STAIRS = register("cracked_andesite_bricks_stairs",
+            (properties) -> new StairBlock(CRACKED_ANDESITE_BRICKS.defaultBlockState(), properties),
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_ANDESITE_BRICKS).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_ANDESITE_BRICKS_SLAB = register("cracked_andesite_bricks_slab", SlabBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_ANDESITE_BRICKS).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_ANDESITE_BRICKS_WALL = register("cracked_andesite_bricks_wall", WallBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_ANDESITE_BRICKS).sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
             true);
 
@@ -97,9 +123,35 @@ public class ModBlocks {
             BlockBehaviour.Properties.of().mapColor(MapColor.STONE).sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
             true);
+    public static final Block MOSSY_STONE_TILES_STAIRS = register("mossy_stone_tiles_stairs",
+            (properties) -> new StairBlock(MOSSY_STONE_TILES.defaultBlockState(), properties),
+            BlockBehaviour.Properties.ofFullCopy(MOSSY_STONE_TILES).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block MOSSY_STONE_TILES_SLAB = register("mossy_stone_tiles_slab", SlabBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(MOSSY_STONE_TILES).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block MOSSY_STONE_TILES_WALL = register("mossy_stone_tiles_wall", WallBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(MOSSY_STONE_TILES).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
 
     public static final Block CRACKED_STONE_TILES = register("cracked_stone_tiles", Block::new,
             BlockBehaviour.Properties.of().mapColor(MapColor.STONE).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_STONE_TILES_STAIRS = register("cracked_stone_tiles_stairs",
+            (properties) -> new StairBlock(CRACKED_STONE_TILES.defaultBlockState(), properties),
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_STONE_TILES).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_STONE_TILES_SLAB = register("cracked_stone_tiles_slab", SlabBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_STONE_TILES).sound(SoundType.STONE)
+                    .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
+            true);
+    public static final Block CRACKED_STONE_TILES_WALL = register("cracked_stone_tiles_wall", WallBlock::new,
+            BlockBehaviour.Properties.ofFullCopy(CRACKED_STONE_TILES).sound(SoundType.STONE)
                     .instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5F, 6.0F),
             true);
 
@@ -191,8 +243,14 @@ public class ModBlocks {
             creativeTab.accept(ModBlocks.ANDESITE_BRICKS_WALL.asItem());
 
             creativeTab.accept(ModBlocks.MOSSY_ANDESITE_BRICKS.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_ANDESITE_BRICKS_STAIRS.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_ANDESITE_BRICKS_SLAB.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_ANDESITE_BRICKS_WALL.asItem());
 
             creativeTab.accept(ModBlocks.CRACKED_ANDESITE_BRICKS.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_ANDESITE_BRICKS_STAIRS.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_ANDESITE_BRICKS_SLAB.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_ANDESITE_BRICKS_WALL.asItem());
 
             creativeTab.accept(ModBlocks.STONE_TILES.asItem());
             creativeTab.accept(ModBlocks.STONE_TILES_STAIRS.asItem());
@@ -200,8 +258,14 @@ public class ModBlocks {
             creativeTab.accept(ModBlocks.STONE_TILES_WALL.asItem());
 
             creativeTab.accept(ModBlocks.MOSSY_STONE_TILES.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_STONE_TILES_STAIRS.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_STONE_TILES_SLAB.asItem());
+            creativeTab.accept(ModBlocks.MOSSY_STONE_TILES_WALL.asItem());
 
             creativeTab.accept(ModBlocks.CRACKED_STONE_TILES.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_STONE_TILES_STAIRS.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_STONE_TILES_SLAB.asItem());
+            creativeTab.accept(ModBlocks.CRACKED_STONE_TILES_WALL.asItem());
 
             creativeTab.accept(ModBlocks.WHITE_STONE.asItem());
             creativeTab.accept(ModBlocks.WHITE_STONE_STAIRS.asItem());

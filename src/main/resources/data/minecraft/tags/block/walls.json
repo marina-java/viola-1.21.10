@@ -5,6 +5,10 @@
     "viola:white_stone_wall",
     "viola:white_stone_bricks_wall",
     "viola:white_stone_tiles_wall",
-    "viola:smooth_quartz_wall"
+    "viola:smooth_quartz_wall",
+    "viola:mossy_andesite_bricks_wall",
+    "viola:cracked_stone_tiles_wall",
+    "viola:mossy_stone_tiles_wall",
+    "viola:cracked_andesite_bricks_wall"
   ]
 }

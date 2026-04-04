@@ -29,6 +29,19 @@
     "viola:mossy_white_stone_bricks",
     "viola:cracked_white_stone_bricks",
     "viola:mossy_white_stone_tiles",
-    "viola:cracked_white_stone_tiles"
+    "viola:cracked_white_stone_tiles",
+    "viola:mossy_andesite_bricks_wall",
+    "viola:mossy_andesite_bricks_slab",
+    "viola:mossy_andesite_bricks_stairs",
+    "viola:cracked_andesite_bricks_wall",
+    "viola:cracked_andesite_bricks_slab",
+    "viola:cracked_andesite_bricks_stairs",
+    "viola:cracked_stone_tiles",
+    "viola:cracked_stone_tiles_stairs",
+    "viola:cracked_stone_tiles_slab",
+    "viola:cracked_stone_tiles_wall",
+    "viola:mossy_stone_tiles_wall",
+    "viola:mossy_stone_tiles_slab",
+    "viola:mossy_stone_tiles_stairs"
   ]
 }
