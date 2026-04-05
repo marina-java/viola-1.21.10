@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "viola:block/cracked_white_stone_tiles",
+    "top": "viola:block/cracked_white_stone_tiles",
+    "side": "viola:block/cracked_white_stone_tiles"
+  }
+}

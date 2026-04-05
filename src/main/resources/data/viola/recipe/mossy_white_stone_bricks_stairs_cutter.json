@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "viola:mossy_white_stone_bricks",
+    "result": {
+        "id": "viola:mossy_white_stone_bricks_stairs",
+        "count": 1
+    }
+}

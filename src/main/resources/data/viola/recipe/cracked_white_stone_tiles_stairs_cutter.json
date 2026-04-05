@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "viola:cracked_white_stone_tiles",
+    "result": {
+        "id": "viola:cracked_white_stone_tiles_stairs",
+        "count": 1
+    }
+}

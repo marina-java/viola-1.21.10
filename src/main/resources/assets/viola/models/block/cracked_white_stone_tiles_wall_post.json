@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "viola:block/cracked_white_stone_tiles"
+  }
+}

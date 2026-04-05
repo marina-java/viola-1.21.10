@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": "viola:mossy_white_stone_tiles"
+    },
+    "result": {
+        "id": "viola:mossy_white_stone_tiles_slab",
+        "count": 6
+    }
+}
