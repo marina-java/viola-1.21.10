@@ -1,0 +1,68 @@
+{
+  "block.viola.andesite_bricks": "Andesitziegel",
+  "block.viola.andesite_bricks_stairs": "Andesitziegeltreppe",
+  "block.viola.andesite_bricks_slab": "Andesitziegelstufe",
+  "block.viola.andesite_bricks_wall": "Andesitziegelmauer",
+
+  "block.viola.mossy_andesite_bricks": "Bemooste Andesitziegel",
+  "block.viola.mossy_andesite_bricks_stairs": "Bemooste Andesitziegeltreppe",
+  "block.viola.mossy_andesite_bricks_slab": "Bemooste Andesitziegelstufe",
+  "block.viola.mossy_andesite_bricks_wall": "Bemooste Andesitziegelmauer",
+
+  "block.viola.cracked_andesite_bricks": "Rissige Andesitziegel",
+  "block.viola.cracked_andesite_bricks_stairs": "Rissige Andesitziegeltreppe",
+  "block.viola.cracked_andesite_bricks_slab": "Rissige Andesitziegelstufe",
+  "block.viola.cracked_andesite_bricks_wall": "Rissige Andesitziegelmauer",
+
+  "block.viola.stone_tiles": "Steinfliesen",
+  "block.viola.stone_tiles_stairs": "Steinfliesentreppe",
+  "block.viola.stone_tiles_slab": "Steinfliesenstufe",
+  "block.viola.stone_tiles_wall": "Steinfliesenmauer",
+
+  "block.viola.mossy_stone_tiles": "Bemooste Steinfliesen",
+  "block.viola.mossy_stone_tiles_stairs": "Bemooste Steinfliesentreppe",
+  "block.viola.mossy_stone_tiles_slab": "Bemooste Steinfliesenstufe",
+  "block.viola.mossy_stone_tiles_wall": "Bemooste Steinfliesenmauer",
+
+  "block.viola.cracked_stone_tiles": "Rissige Steinfliesen",
+  "block.viola.cracked_stone_tiles_stairs": "Rissige Steinfliesentreppe",
+  "block.viola.cracked_stone_tiles_slab": "Rissige Steinfliesenstufe",
+  "block.viola.cracked_stone_tiles_wall": "Rissige Steinfliesenmauer",
+
+  "block.viola.white_stone": "Weißer Stein",
+  "block.viola.white_stone_slab": "Weiße Steinstufe",
+  "block.viola.white_stone_stairs": "Weiße Steintreppe",
+  "block.viola.white_stone_wall": "Weiße Steinmauer",
+
+  "block.viola.white_stone_bricks": "Weißsteinziegel",
+  "block.viola.white_stone_bricks_stairs": "Weißsteinziegeltreppe",
+  "block.viola.white_stone_bricks_slab": "Weißsteinziegelstufe",
+  "block.viola.white_stone_bricks_wall": "Weißsteinziegelmauer",
+
+  "block.viola.mossy_white_stone_bricks": "Bemooste Weißsteinziegel",
+  "block.viola.mossy_white_stone_bricks_stairs": "Bemooste Weißsteinziegeltreppe",
+  "block.viola.mossy_white_stone_bricks_slab": "Bemooste Weißsteinziegelstufe",
+  "block.viola.mossy_white_stone_bricks_wall": "Bemooste Weißsteinziegelmauer",
+
+  "block.viola.cracked_white_stone_bricks": "Rissige Weißsteinziegel",
+  "block.viola.cracked_white_stone_bricks_stairs": "Rissige Weißsteinziegeltreppe",
+  "block.viola.cracked_white_stone_bricks_slab": "Rissige Weißsteinziegelstufe",
+  "block.viola.cracked_white_stone_bricks_wall": "Rissige Weißsteinziegelmauer",
+
+  "block.viola.white_stone_tiles": "Weißsteinfliesen",
+  "block.viola.white_stone_tiles_stairs": "Weißsteinfliesentreppe",
+  "block.viola.white_stone_tiles_slab": "Weißsteinfliesenstufe",
+  "block.viola.white_stone_tiles_wall": "Weißsteinfliesenmauer",
+
+  "block.viola.mossy_white_stone_tiles": "Bemooste Weißsteinfliesen",
+  "block.viola.mossy_white_stone_tiles_stairs": "Bemooste Weißsteinfliesentreppe",
+  "block.viola.mossy_white_stone_tiles_slab": "Bemooste Weißsteinfliesenstufe",
+  "block.viola.mossy_white_stone_tiles_wall": "Bemooste Weißsteinfliesenmauer",
+
+  "block.viola.cracked_white_stone_tiles": "Rissige Weißsteinfliesen",
+  "block.viola.cracked_white_stone_tiles_stairs": "Rissige Weißsteinfliesentreppe",
+  "block.viola.cracked_white_stone_tiles_slab": "Rissige Weißsteinfliesenstufe",
+  "block.viola.cracked_white_stone_tiles_wall": "Rissige Weißsteinfliesenmauer",
+
+  "block.viola.smooth_quartz_wall": "Glatte Quarzmauer"
+}

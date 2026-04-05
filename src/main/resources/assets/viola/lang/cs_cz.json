@@ -1,0 +1,68 @@
+{
+  "block.viola.andesite_bricks": "Andezitové cihly",
+  "block.viola.andesite_bricks_stairs": "Schody z andezitových cihel",
+  "block.viola.andesite_bricks_slab": "Deska z andezitových cihel",
+  "block.viola.andesite_bricks_wall": "Zeď z andezitových cihel",
+
+  "block.viola.mossy_andesite_bricks": "Mechem porostlé andezitové cihly",
+  "block.viola.mossy_andesite_bricks_stairs": "Schody z mechem porostlých andezitových cihel",
+  "block.viola.mossy_andesite_bricks_slab": "Deska z mechem porostlých andezitových cihel",
+  "block.viola.mossy_andesite_bricks_wall": "Zeď z mechem porostlých andezitových cihel",
+
+  "block.viola.cracked_andesite_bricks": "Popraskané andezitové cihly",
+  "block.viola.cracked_andesite_bricks_stairs": "Schody z popraskaných andezitových cihel",
+  "block.viola.cracked_andesite_bricks_slab": "Deska z popraskaných andezitových cihel",
+  "block.viola.cracked_andesite_bricks_wall": "Zeď z popraskaných andezitových cihel",
+
+  "block.viola.stone_tiles": "Kamenné dlaždice",
+  "block.viola.stone_tiles_stairs": "Schody z kamenných dlaždic",
+  "block.viola.stone_tiles_slab": "Deska z kamenných dlaždic",
+  "block.viola.stone_tiles_wall": "Zeď z kamenných dlaždic",
+
+  "block.viola.mossy_stone_tiles": "Mechem porostlé kamenné dlaždice",
+  "block.viola.mossy_stone_tiles_stairs": "Schody z mechem porostlých kamenných dlaždic",
+  "block.viola.mossy_stone_tiles_slab": "Deska z mechem porostlých kamenných dlaždic",
+  "block.viola.mossy_stone_tiles_wall": "Zeď z mechem porostlých kamenných dlaždic",
+
+  "block.viola.cracked_stone_tiles": "Popraskané kamenné dlaždice",
+  "block.viola.cracked_stone_tiles_stairs": "Schody z popraskaných kamenných dlaždic",
+  "block.viola.cracked_stone_tiles_slab": "Deska z popraskaných kamenných dlaždic",
+  "block.viola.cracked_stone_tiles_wall": "Zeď z popraskaných kamenných dlaždic",
+
+  "block.viola.white_stone": "Bílý kámen",
+  "block.viola.white_stone_slab": "Deska z bílého kamene",
+  "block.viola.white_stone_stairs": "Schody z bílého kamene",
+  "block.viola.white_stone_wall": "Zeď z bílého kamene",
+
+  "block.viola.white_stone_bricks": "Cihly z bílého kamene",
+  "block.viola.white_stone_bricks_stairs": "Schody z cihel z bílého kamene",
+  "block.viola.white_stone_bricks_slab": "Deska z cihel z bílého kamene",
+  "block.viola.white_stone_bricks_wall": "Zeď z cihel z bílého kamene",
+
+  "block.viola.mossy_white_stone_bricks": "Mechem porostlé cihly z bílého kamene",
+  "block.viola.mossy_white_stone_bricks_stairs": "Schody z mechem porostlých cihel z bílého kamene",
+  "block.viola.mossy_white_stone_bricks_slab": "Deska z mechem porostlých cihel z bílého kamene",
+  "block.viola.mossy_white_stone_bricks_wall": "Zeď z mechem porostlých cihel z bílého kamene",
+
+  "block.viola.cracked_white_stone_bricks": "Popraskané cihly z bílého kamene",
+  "block.viola.cracked_white_stone_bricks_stairs": "Schody z popraskaných cihel z bílého kamene",
+  "block.viola.cracked_white_stone_bricks_slab": "Deska z popraskaných cihel z bílého kamene",
+  "block.viola.cracked_white_stone_bricks_wall": "Zeď z popraskaných cihel z bílého kamene",
+
+  "block.viola.white_stone_tiles": "Dlaždice z bílého kamene",
+  "block.viola.white_stone_tiles_stairs": "Schody z dlaždic z bílého kamene",
+  "block.viola.white_stone_tiles_slab": "Deska z dlaždic z bílého kamene",
+  "block.viola.white_stone_tiles_wall": "Zeď z dlaždic z bílého kamene",
+
+  "block.viola.mossy_white_stone_tiles": "Mechem porostlé dlaždice z bílého kamene",
+  "block.viola.mossy_white_stone_tiles_stairs": "Schody z mechem porostlých dlaždic z bílého kamene",
+  "block.viola.mossy_white_stone_tiles_slab": "Deska z mechem porostlých dlaždic z bílého kamene",
+  "block.viola.mossy_white_stone_tiles_wall": "Zeď z mechem porostlých dlaždic z bílého kamene",
+
+  "block.viola.cracked_white_stone_tiles": "Popraskané dlaždice z bílého kamene",
+  "block.viola.cracked_white_stone_tiles_stairs": "Schody z popraskaných dlaždic z bílého kamene",
+  "block.viola.cracked_white_stone_tiles_slab": "Deska z popraskaných dlaždic z bílého kamene",
+  "block.viola.cracked_white_stone_tiles_wall": "Zeď z popraskaných dlaždic z bílého kamene",
+
+  "block.viola.smooth_quartz_wall": "Zeď z hladkého křemene"
+}

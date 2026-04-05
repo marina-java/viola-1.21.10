@@ -1,0 +1,68 @@
+{
+  "block.viola.andesite_bricks": "Cegły andezytowe",
+  "block.viola.andesite_bricks_stairs": "Schody z cegieł andezytowych",
+  "block.viola.andesite_bricks_slab": "Płyta z cegieł andezytowych",
+  "block.viola.andesite_bricks_wall": "Mur z cegieł andezytowych",
+
+  "block.viola.mossy_andesite_bricks": "Omszałe cegły andezytowe",
+  "block.viola.mossy_andesite_bricks_stairs": "Schody z omszałych cegieł andezytowych",
+  "block.viola.mossy_andesite_bricks_slab": "Płyta z omszałych cegieł andezytowych",
+  "block.viola.mossy_andesite_bricks_wall": "Mur z omszałych cegieł andezytowych",
+
+  "block.viola.cracked_andesite_bricks": "Spękane cegły andezytowe",
+  "block.viola.cracked_andesite_bricks_stairs": "Schody ze spękanych cegieł andezytowych",
+  "block.viola.cracked_andesite_bricks_slab": "Płyta ze spękanych cegieł andezytowych",
+  "block.viola.cracked_andesite_bricks_wall": "Mur ze spękanych cegieł andezytowych",
+
+  "block.viola.stone_tiles": "Kamienne płytki",
+  "block.viola.stone_tiles_stairs": "Schody z kamiennych płytek",
+  "block.viola.stone_tiles_slab": "Płyta z kamiennych płytek",
+  "block.viola.stone_tiles_wall": "Mur z kamiennych płytek",
+
+  "block.viola.mossy_stone_tiles": "Omszałe kamienne płytki",
+  "block.viola.mossy_stone_tiles_stairs": "Schody z omszałych kamiennych płytek",
+  "block.viola.mossy_stone_tiles_slab": "Płyta z omszałych kamiennych płytek",
+  "block.viola.mossy_stone_tiles_wall": "Mur z omszałych kamiennych płytek",
+
+  "block.viola.cracked_stone_tiles": "Spękane kamienne płytki",
+  "block.viola.cracked_stone_tiles_stairs": "Schody ze spękanych kamiennych płytek",
+  "block.viola.cracked_stone_tiles_slab": "Płyta ze spękanych kamiennych płytek",
+  "block.viola.cracked_stone_tiles_wall": "Mur ze spękanych kamiennych płytek",
+
+  "block.viola.white_stone": "Biały kamień",
+  "block.viola.white_stone_slab": "Płyta z białego kamienia",
+  "block.viola.white_stone_stairs": "Schody z białego kamienia",
+  "block.viola.white_stone_wall": "Mur z białego kamienia",
+
+  "block.viola.white_stone_bricks": "Cegły z białego kamienia",
+  "block.viola.white_stone_bricks_stairs": "Schody z cegieł z białego kamienia",
+  "block.viola.white_stone_bricks_slab": "Płyta z cegieł z białego kamienia",
+  "block.viola.white_stone_bricks_wall": "Mur z cegieł z białego kamienia",
+
+  "block.viola.mossy_white_stone_bricks": "Omszałe cegły z białego kamienia",
+  "block.viola.mossy_white_stone_bricks_stairs": "Schody z omszałych cegieł z białego kamienia",
+  "block.viola.mossy_white_stone_bricks_slab": "Płyta z omszałych cegieł z białego kamienia",
+  "block.viola.mossy_white_stone_bricks_wall": "Mur z omszałych cegieł z białego kamienia",
+
+  "block.viola.cracked_white_stone_bricks": "Spękane cegły z białego kamienia",
+  "block.viola.cracked_white_stone_bricks_stairs": "Schody ze spękanych cegieł z białego kamienia",
+  "block.viola.cracked_white_stone_bricks_slab": "Płyta ze spękanych cegieł z białego kamienia",
+  "block.viola.cracked_white_stone_bricks_wall": "Mur ze spękanych cegieł z białego kamienia",
+
+  "block.viola.white_stone_tiles": "Płytki z białego kamienia",
+  "block.viola.white_stone_tiles_stairs": "Schody z płytek z białego kamienia",
+  "block.viola.white_stone_tiles_slab": "Płyta z płytek z białego kamienia",
+  "block.viola.white_stone_tiles_wall": "Mur z płytek z białego kamienia",
+
+  "block.viola.mossy_white_stone_tiles": "Omszałe płytki z białego kamienia",
+  "block.viola.mossy_white_stone_tiles_stairs": "Schody z omszałych płytek z białego kamienia",
+  "block.viola.mossy_white_stone_tiles_slab": "Płyta z omszałych płytek z białego kamienia",
+  "block.viola.mossy_white_stone_tiles_wall": "Mur z omszałych płytek z białego kamienia",
+
+  "block.viola.cracked_white_stone_tiles": "Spękane płytki z białego kamienia",
+  "block.viola.cracked_white_stone_tiles_stairs": "Schody ze spękanych płytek z białego kamienia",
+  "block.viola.cracked_white_stone_tiles_slab": "Płyta ze spękanych płytek z białego kamienia",
+  "block.viola.cracked_white_stone_tiles_wall": "Mur ze spękanych płytek z białego kamienia",
+
+  "block.viola.smooth_quartz_wall": "Mur z gładkiego kwarcu"
+}
